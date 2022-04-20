@@ -332,7 +332,5 @@ Para esse desafio, temos os seguintes testes:
 
 [Testes pages/Home.spec.tsx](https://www.notion.so/Testes-pages-Home-spec-tsx-945cbe2ec5f44bb2b46deba6a1f46f86)
 
-# Como deve ficar a aplicação ao final?
 
-Está com dúvidas (ou curioso 👀) para ver como deve ficar a aplicação ao final do desafio? Deixamos abaixo um vídeo mostrando as principais funcionalidades que você deve implementar para te ajudar (ou matar sua curiosidade 👀).
 
